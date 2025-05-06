@@ -457,7 +457,7 @@ let isConditionTrue_0 = false;
 {
 gdjs.copyArray(runtimeScene.getObjects("GoldText"), gdjs.GameSceneCode.GDGoldTextObjects1);
 {for(var i = 0, len = gdjs.GameSceneCode.GDGoldTextObjects1.length ;i < len;++i) {
-    gdjs.GameSceneCode.GDGoldTextObjects1[i].getBehavior("Text").setText("$GORK: " + runtimeScene.getScene().getVariables().getFromIndex(2).getAsString());
+    gdjs.GameSceneCode.GDGoldTextObjects1[i].getBehavior("Text").setText("$TD: " + runtimeScene.getScene().getVariables().getFromIndex(2).getAsString());
 }
 }}
 
