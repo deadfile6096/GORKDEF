@@ -849,7 +849,7 @@ for (var i = 0, k = 0, l = gdjs.GameSceneCode.GDNewButton2Objects1.length;i<l;++
 }
 gdjs.GameSceneCode.GDNewButton2Objects1.length = k;
 if (isConditionTrue_0) {
-{gdjs.evtTools.window.openURL("https://x.com/home", runtimeScene);
+{gdjs.evtTools.window.openURL("https://x.com/trenchesdefence", runtimeScene);
 }}
 
 }
